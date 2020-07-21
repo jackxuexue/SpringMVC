@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>spring01Servlet</module>
+        <module>spring02HelloMVC</module>
     </modules>
 
     <dependencies>
