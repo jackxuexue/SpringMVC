@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring01Servlet" />
         <module name="spring02HelloMVC" />
+        <module name="spring03Annotation" />
+        <module name="spring04SSM" />
       </profile>
     </annotationProcessing>
   </component>

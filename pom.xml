@@ -11,6 +11,8 @@
     <modules>
         <module>spring01Servlet</module>
         <module>spring02HelloMVC</module>
+        <module>spring03Annotation</module>
+        <module>spring04SSM</module>
     </modules>
 
     <dependencies>
